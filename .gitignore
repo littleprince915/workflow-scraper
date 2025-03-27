@@ -1,4 +1,5 @@
+
 **/__pycache__/
 
-**/frontend/node_modules/
-**/backend/be_python/
+**/node_modules
+**/be_python
