@@ -2,6 +2,18 @@
 
 create 2 terminals
 
-get into frontend and run `npm run start`
+change directory into frontend
 
-get into backend and run `python app.py`
+run `npm install`
+
+run `npm run start`
+
+change directory into backend
+
+run `virtualenv venv`
+
+run `source venv/Scripts/activate`
+
+run `pip install -r requirements.txt`
+
+run `python app.py`
