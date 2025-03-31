@@ -1,0 +1,25 @@
+.workflow-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.workflow-list li {
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.workflow-list li:last-child {
+  border-bottom: none;
+}
+
+.workflow-list h2 {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.workflow-list p {
+  font-size: 14px;
+  color: #666;
+}
